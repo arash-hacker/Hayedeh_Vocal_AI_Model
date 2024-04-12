@@ -1,4 +1,4 @@
-# Open_Hayedeh_AI_Model
+# Hayedeh_AI_Model
 #iranian #iran #persian #song #singer #ai #rsc #dataset #model #hayedeh #hayede #haiede #haiedeh
 
 ## Google Colab    
