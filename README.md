@@ -11,6 +11,7 @@
 4- Put information in box to import model from cloud.("Download Model" tabs in GUI)
 <img width="1536" alt="Screenshot 2024-04-12 at 16 52 32" src="https://github.com/arash-hacker/Open_Hayedeh_AI_Model/assets/6451804/42cf6f10-f5f9-4777-8e1f-15c15f2e09ff">      
 5- Choose model(referesh first) and upload your target song to be converted, and choose "Convert"      
-<img width="1524" alt="Screenshot 2024-04-13 at 15 36 22" src="https://github.com/arash-hacker/Hayedeh_Vocal_AI_Model/assets/6451804/7fb2b5e4-04d5-4c15-afdf-5c7654362c86">     
+<img width="1517" alt="Screenshot 2024-04-13 at 16 25 16" src="https://github.com/arash-hacker/Hayedeh_Vocal_AI_Model/assets/6451804/9707079f-50db-4ada-b685-a0cb1ec4e80e">
+
 
 6- Enjoy!!!      
