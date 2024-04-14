@@ -11,9 +11,8 @@
 ## How to run   
 1- Go to above link and run "install RVC" and "open easyGUI"   
 2- You can upload directly .pth file into assets/weights folder and .index file into assets/indeces.           
-3- Upload in your Google Drive or any public accessible host(DropBox,...)      
-4- Put information in box to import model from cloud.("Download Model" tabs in GUI)
+3- Put information in box to import model from cloud.("Download Model" tabs in GUI)
 <img width="1536" alt="Screenshot 2024-04-12 at 16 52 32" src="https://github.com/arash-hacker/Open_Hayedeh_AI_Model/assets/6451804/42cf6f10-f5f9-4777-8e1f-15c15f2e09ff">      
-5- Choose model(referesh first) and upload your target song to be converted, and choose "Convert"      
+4- Choose model(referesh first) and upload your target song to be converted, and choose "Convert"      
 <img width="1517" alt="Screenshot 2024-04-13 at 16 25 16" src="https://github.com/arash-hacker/Hayedeh_Vocal_AI_Model/assets/6451804/9707079f-50db-4ada-b685-a0cb1ec4e80e">     
-6- Enjoy!!!    
+5- Enjoy!!!    
