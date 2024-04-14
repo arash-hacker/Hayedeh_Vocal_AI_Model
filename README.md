@@ -17,6 +17,3 @@
 5- Choose model(referesh first) and upload your target song to be converted, and choose "Convert"      
 <img width="1517" alt="Screenshot 2024-04-13 at 16 25 16" src="https://github.com/arash-hacker/Hayedeh_Vocal_AI_Model/assets/6451804/9707079f-50db-4ada-b685-a0cb1ec4e80e">     
 6- Enjoy!!!    
-## Powered by this repo       
-https://soundcloud.com/arash-hacker/hekayate-shishe-o-sang-hayedeh-ai       
-https://soundcloud.com/arash-hacker/hayedeh-to-shodi-mesle-khoon-to-ragamai-hayedeh-ai     
