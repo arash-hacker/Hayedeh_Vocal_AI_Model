@@ -1,6 +1,6 @@
 # Hayedeh_AI_Model
 
-#iranian #iran #persian #song #singer #ai #rsc #dataset #model #hayedeh #hayede #haiede #haiedeh
+#iranian #iran #persian #song #singer #ai #rvc #dataset #model #hayedeh #hayede #haiede #haiedeh
 <div align="center">
 <img src="https://github.com/arash-hacker/Hayedeh_Vocal_AI_Model/assets/6451804/9788f2ee-c102-4253-9854-bdc4c101ada6" width="300px" height="300px"/>
 </div>
